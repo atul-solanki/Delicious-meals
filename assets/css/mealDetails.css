@@ -75,7 +75,7 @@ h5.text-center {
 }
 
 /* meals footer body */
-footer {
+footer.text-center {
     position: relative;
 }
 
