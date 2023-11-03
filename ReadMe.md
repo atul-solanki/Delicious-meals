@@ -22,7 +22,7 @@ No Javascript library is used.
 - Scripting/Programming - Javascript
 - IDE - VSCode
 
-### Have a look at the project via this link :
+### Have a look at the project via this link : https://atul-solanki.github.io/Delicious-meals
 
 ## Preview of project
 ![Homepage](https://user-images.githubusercontent.com/119615683/227439959-afae1ee2-9292-4c2c-8b58-14f18675624c.png)
